@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopSense Analytics
 
 ## Project Overview
@@ -40,3 +41,7 @@ ShopSense-Analytics/
 * Data Cleaning: Completed
 * SQL Analysis: In Progress
 * Dashboard: Pending
+=======
+# ShopSense-Analytics
+Retail Sales Analytics using Python, SQL, and Power BI
+>>>>>>> 4590fb9e1eca0095d9f0792dd1f0d34b7b69b6a5
