@@ -126,16 +126,24 @@ ShopSense-Analytics/
 
 ├── data/
 │   ├── raw/
+│   │   └── Global_Superstore.csv
+│   │
 │   └── cleaned/
+│       └── Global_Superstore_Cleaned.csv
 │
 ├── notebooks/
+│   └── data_cleaning.ipynb
 │
 ├── sql/
 │   └── shopsense_analysis.sql
 │
 ├── dashboard/
 │   ├── ShopSense_Dashboard.pbix
+│   │
 │   └── screenshots/
+│       ├── page1_executive_overview.png
+│       ├── page2_geography_product_analysis.png
+│       └── page3_shipping_analysis.png
 │
 └── README.md
 
