@@ -122,8 +122,9 @@ These filters allow users to interactively explore data across all dashboard pag
 
 ## Project Structure
 
+```text
 ShopSense-Analytics/
-
+│
 ├── data/
 │   ├── raw/
 │   │   └── Global_Superstore.csv
@@ -146,6 +147,7 @@ ShopSense-Analytics/
 │       └── page3_shipping_analysis.png
 │
 └── README.md
+```
 
 ---
 
